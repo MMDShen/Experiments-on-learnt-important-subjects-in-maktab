@@ -2,4 +2,4 @@
 /* https://github.com/MMDShen/maktabSharif/tree/HW3/callus-extentions its two parts */
 
 /* require if terminates with falsehood then next lines of codes terminates as well with an error, while include() just returns a warning and continue.. */
-/*thx maktabsharif :  https://maktabsharif.ir/  */
+/* thx maktabsharif :  https://maktabsharif.ir/  */

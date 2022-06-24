@@ -42,7 +42,7 @@
                 right:0;
             }
 
-            /*accepts top to bottom attributes plus z-index, if its top be 0 then sticks to browser's ceil otherwise depends on its top properties that how many px should have distance with ceil of browser*/
+            /*accepts top to bottom attributes plus z-index, if its top be 0 then sticks to browser's ceil otherwise depends on its top value indicates how many px should have distance with ceil of browser*/
             .sticky{
                 position:sticky;
                 width: 50px;

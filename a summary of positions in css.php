@@ -1,4 +1,5 @@
-/* https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334b2  more info */
+/* https://medium.com/@mautayro/understanding-css-position-display-float-87f9727334b2  more info 
+   https://www.w3schools.com/cssref/default.asp  complete css cheat sheet */
 <?php
 
 
